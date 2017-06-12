@@ -1,0 +1,1 @@
+test_para=oss://wavenet-dataset.oss-cn-shanghai-internal.aliyuncs.com/pai_test/test_para/
